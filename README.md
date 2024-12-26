@@ -7,7 +7,7 @@
  
    What did I do in the past?🚀
 
-•	Managed multiple e-commerce brands, generating over $700,000 in sales from 2020-2023.
+•	Managed multiple e-commerce brands, generating over $350,000 in sales from 2020-2022.
 		Specialized in dropshipping, successfully scaling businesses and driving results.
  
   Why am I learning programming?🔭
