@@ -2,7 +2,7 @@
 
    Who am I?🤔
    
-•       My name is Omar Saad, a Mechatronics graduate from Germany University in Cairo.
+•       My name is Omar Saad, a Mechatronics graduate from The German University in Cairo.
 	       Skilled in marketing, with a knack for technology and  problem-solving.
  
    What did I do in the past?🚀
