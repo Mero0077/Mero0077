@@ -55,7 +55,7 @@
 
 ## 📚 Projects
 - [**E-Commerce**](https://github.com/Mero0077/E-CommerceProject) -An e-commerce project that enables users to browse, search, and purchase products with features like cart management, user authentication, and admin controls.
-- [**DriverLicense System*](https://github.com/abdelwahab-ahmed-shandy/EntityFramework-Mini-Projects) -A driving license management system built using ADO.NET for handling applicant data, license issuance, and record management through direct database interactions.
+- [**DriverLicense System*](https://github.com/Mero0077/DriverLicenseSystemF) -A driving license management system built using ADO.NET for handling applicant data, license issuance, and record management through direct database interactions.
 ---
 
 ## 🚀 GitHub Activity Overview
