@@ -48,17 +48,14 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-1F618D?logo=network-wired&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2E8B57?logo=hackthebox&logoColor=white)
-![SOC Analyst](https://img.shields.io/badge/-SOC_Analyst-6C757D?logo=shield&logoColor=white)
 ![Google](https://img.shields.io/badge/-Google-4285F4?logo=google&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-88CC14?logo=tryhackme&logoColor=white)
-![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white)
+
 
 ---
 
 ## 📚 Projects
 - [**Movie Market**](https://github.com/abdelwahab-ahmed-shandy/Movie-Market) - Movie Market is a web application designed to manage and share movies.
-- [**My Study Archive**](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive) - This repository serves as a personal archive of my study materials, notes, and resources across various topics. It includes content from courses, books, research, and personal learning experiences.
+- [**E-Commerce**](https://github.com/Mero0077/My-Study-Archive) - This repository serves as a personal archive of my study materials, notes, and resources across various topics. It includes content from courses, books, research, and personal learning experiences.
 - [**Entity Framework Mini Projects**](https://github.com/abdelwahab-ahmed-shandy/EntityFramework-Mini-Projects) - A collection of small projects using Entity Framework Core in Code-First style in C#, demonstrating basic operations such as CRUD, migrations, and describing relationships between tables.
 - [**Database Design with ERD EERD Relational Schemas SQL Implementation**](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) - A comprehensive repository showcasing database design projects, including Enhanced Entity-Relationship Diagrams (EERDs), Relational Schemas, and SQL code implementation for practical use cases.
 - [**CSharp OOP Mini Projects**](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects) -  A collection of small projects using CSharp And OOP.
