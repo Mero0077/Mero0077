@@ -54,16 +54,8 @@
 ---
 
 ## 📚 Projects
-- [**Movie Market**](https://github.com/abdelwahab-ahmed-shandy/Movie-Market) - Movie Market is a web application designed to manage and share movies.
 - [**E-Commerce**](https://github.com/Mero0077/E-CommerceProject) -An e-commerce project that enables users to browse, search, and purchase products with features like cart management, user authentication, and admin controls.
-- [**Entity Framework Mini Projects**](https://github.com/abdelwahab-ahmed-shandy/EntityFramework-Mini-Projects) - A collection of small projects using Entity Framework Core in Code-First style in C#, demonstrating basic operations such as CRUD, migrations, and describing relationships between tables.
-- [**Database Design with ERD EERD Relational Schemas SQL Implementation**](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) - A comprehensive repository showcasing database design projects, including Enhanced Entity-Relationship Diagrams (EERDs), Relational Schemas, and SQL code implementation for practical use cases.
-- [**CSharp OOP Mini Projects**](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects) -  A collection of small projects using CSharp And OOP.
-- [**CSharp Multilevel Challenges**](https://github.com/abdelwahab-ahmed-shandy/CSharp-Multilevel-Challenges) - Explore advanced multilevel programming challenges in C#, designed to enhance problem-solving and coding skills.
-- [**Programming Challenges in C++ - Strongest Challenge**](https://github.com/Abdelwahab-Shandy/Programming-Challenges-CPlusPlus-Strongest-Challenge) - Dive into a series of advanced programming challenges in C++ .
-- [**Programming Challenges CPlusPlus Flowcharts**](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-CPlusPlus-Flowcharts) - A beginner-friendly collection of C++ mini-programs focusing on fundamental algorithms, supported by intuitive flowchart representations.
-- [**Template With Html And Css**](https://github.com/abdelwahab-shandy/Template-With-Html-And-Css) - A sleek, fully responsive website template created with HTML and CSS
-
+- [**DriverLicense System*](https://github.com/abdelwahab-ahmed-shandy/EntityFramework-Mini-Projects) - A collection of small projects using Entity Framework Core in Code-First style in C#, demonstrating basic operations such as CRUD, migrations, and describing relationships 
 ---
 
 ## 🚀 GitHub Activity Overview
