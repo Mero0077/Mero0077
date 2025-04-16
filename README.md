@@ -79,7 +79,7 @@
 - **Private Repositories:** ![Private Repositories](https://img.shields.io/badge/Private%20Repositories-3-red)
   
 ---
-
+<!--
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/Followers-4000-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-ahmed-shandy/)
 [![Medium](https://img.shields.io/badge/Followers-25-brightgreen?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdelwahabshandy)
@@ -87,7 +87,7 @@
 
  📫 How to reach me?
 
-
+-->
 <!--
 **Mero0077/Mero0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
