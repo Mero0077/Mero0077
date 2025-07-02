@@ -8,6 +8,7 @@
 •     I’m Omar Saad — Mechatronics graduate from the German University in Cairo. Business-focused, tech-driven, and always solving real problems.
  
 •  What have I done? 🚀
+
       I built and scaled e-commerce brands to over six figures in sales from 2019–2023. I know how to grow, adapt, and get things done.
 
 •  Why tech? 💻
