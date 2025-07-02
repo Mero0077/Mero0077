@@ -3,17 +3,17 @@
 
 
 
-##   Who am I?🤔
+##   Who am I?
    
 •     I’m Omar Saad — Mechatronics graduate from the German University in Cairo. Business-focused, tech-driven, and always solving real problems.
  
 •  What have I done? 🚀
       I built and scaled e-commerce brands to over six figures in sales from 2019–2023. I know how to grow, adapt, and get things done.
 
-•  Why tech? 💻
+•  Why tech? 
       I’ve always loved tech. Now I’m diving deep into backend .NET development to turn ideas into working systems that make sense for real business needs.
 
-•  Why me? ✅
+•  Why me? 
       I look at the bigger picture — not just the code. I think ROI, customers, and smart solutions. Numbers motivate me. I’m ready to learn fast and get real results.
   
 🌱 Currently leveling up as a Backend .NET Developer — and ready to put in the work.
