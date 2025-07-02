@@ -5,26 +5,20 @@
 
 ##   Who am I?🤔
    
-•       My name is Omar Saad, a Mechatronics graduate from The German University in Cairo.
-	       Skilled in marketing, with a knack for technology and  problem-solving.
+•     I’m Omar Saad — Mechatronics graduate from the German University in Cairo. Business-focused, tech-driven, and always solving real problems.
  
-   What did I do in the past?🚀
+What have I done? 🚀
+ I built and scaled e-commerce brands to over six figures in sales from 2020–2022. I know how to grow, adapt, and get things done.
 
-•	Managed multiple e-commerce brands, generating over $350,000 in Profit from 2020-2022.
-		Specialized in dropshipping, successfully scaling businesses and driving results.
- 
-  Why am I learning programming?🔭
-  
-•	Programming has always been a passion; I’ve always been fascinated by it.
-		I’m transitioning into tech to build solutions that merge business and technology.
+Why tech? 💻
+ I’ve always loved tech. Now I’m diving deep into backend .NET development to turn ideas into working systems that make sense for real business needs.
 
-  Why would I excel in programming?⚡
-  
-•	My strong numbers-oriented mindset helps me tackle complex problems efficiently.
-		I have a deep understanding of business needs, which will allow me to develop impactful tech solutions.
+Why me? ✅
+ I look at the bigger picture — not just the code. I think ROI, customers, and smart solutions. Numbers motivate me. I’m ready to learn fast and get real results.
 
- 🌱 I’m currently aspiring to be a Backend .Net Developer
- 
+🌱 Currently leveling up as a Backend .NET Developer — and ready to put in the work.
+
+
 ---
 ## 🛠️ Skills & Technologies
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
