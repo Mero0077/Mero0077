@@ -24,14 +24,21 @@
 
 <div align="center">
   <!-- Core Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,cpp,sql,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=dotnet,csharp,cpp,postgres,sqlite" />
   <img src="https://skillicons.dev/icons?i=html,css,typescript,angular,bootstrap,tailwind" />
   <!-- Tools & Practices -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,powershell" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
   <img src="https://skillicons.dev/icons?i=postman,jira,azure,aws,docker" />
-  <!-- Extras -->
-  <img src="https://skillicons.dev/icons?i=visualstudio,swagger" />
 </div>
+
+<div align="center">
+  <!-- Custom badges for techs not in skillicons -->
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</div>
+
 
 ---
 
