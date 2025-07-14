@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,typescript,angular,bootstrap,tailwind" />
   <!-- Tools & Practices -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-  <img src="https://skillicons.dev/icons?i=postman,jira,azure,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=postman,jira,aws,docker" />
 </div>
 
 <div align="center">
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 </div>
 
 
