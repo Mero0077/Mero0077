@@ -54,7 +54,6 @@
 - ✅ Entity Framework Core, ADO.NET, LINQ, SQL Server & PostgreSQL  
 - ✅ RESTful API design & Swagger Docs  
 - ✅ Git version control & Agile workflow with Jira  
-- ✅ Cloud basics with **Azure** & **AWS**, containerization with **Docker**
 
 ---
 
