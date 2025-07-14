@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">🧩 Business-minded .NET Backend Developer</h3>
 <h3>A Mechatronics graduate from the German University in Cairo. Business-focused, tech-driven, and always solving real problems.<br><br>
-  🚀 I built and scaled e-commerce brands to over six figures in sales from 2019–2022. I know how to grow, adapt, and get things done.<br> </h3>
+  🚀 I built and scaled e-commerce brands to over six figures in sales from 2018–2022. I know how to grow, adapt, and get things done.<br> </h3>
 
 ---
 
