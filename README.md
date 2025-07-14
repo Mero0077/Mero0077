@@ -1,82 +1,62 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mero0077.Mero0077" />
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Hello!+👋;+I'm+Omar+Saad!;" />
 </h1>
+
 <h3 align="center">🧩 Business-minded .NET Backend Developer</h3>
-<h3>A Mechatronics graduate from the German University in Cairo. Business-focused, tech-driven, and always solving real problems.<br><br>
-  🚀 I built and scaled e-commerce brands to over six figures in sales from 2018–2022. I know how to grow, adapt, and get things done.<br> </h3>
+
+<p align="center">
+A Mechatronics grad from the German University in Cairo, blending backend engineering with real business sense.
+<br><br>
+🚀 Scaled e-commerce brands to six figures in sales (2018–2022). Now focused on building robust backend systems with .NET Core, C#, CQRS, and clean architecture.
+</p>
 
 ---
 
-<div align="center">
+## ⚙️ What I Do
 
-🔍 Currently building **robust backend systems** with .NET Core & C#  
-🚀 Scaling up with **SOLID principles, clean architecture, and smart database design**  
-📈 Love blending **tech + business** — turning real problems into scalable software  
-🌟 Fun Fact: I believe *great code should pay for itself*
-
-</div>
+- ✅ Build reliable, scalable APIs & backend logic.
+- ✅ Apply *SOLID, **clean architecture*, CQRS, Onion.
+- ✅ Integrate Redis caching, smart database design.
+- ✅ Bridge tech + business: user stories, churn, retention.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Toolbox
 
 <div align="center">
-
-  <!-- ✅ Core Languages & Frameworks ✅ -->
-  <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,typescript,angular,html,css,bootstrap,tailwind" />
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
-
-  <!-- ✅ Tools, Platforms & Cloud ✅ -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker,aws,azure" />
-
-  <!-- ✅ Custom badges for missing tech ✅ -->
+  <img src="https://skillicons.dev/icons?i=dotnet,c,cpp,typescript,angular,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,vscode,linux,postman,docker,aws,azure" />
   <br/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-
 </div>
 
+---
 
+## 🚀 Featured Projects
 
+| Project | Description |
+|---------|--------------|
+| [*Hotel Booking](https://github.com/Mero0077/Hotel-Management) | Full-featured hotel booking system — dynamic rooms, seasonal pricing, role-based access & reviews. *Tech: .NET Core, CQRS, Clean Arch. |
+| [*Sahlha Marketplace](https://github.com/Mero0077/SahlhaApp) | A platform to streamline services for homes & businesses. *Tech: .NET Core, Clean Arch. |
+| [*E-Commerce*](https://github.com/Mero0077/E-CommerceProject) | Online shop: browse, search, buy, manage carts. Auth, admin controls, SOLID design. |
+| [*Driver License System*](https://github.com/Mero0077/DriverLicenseSystemF) | Manage driving license records, applicants, and issuance using ADO.NET & SQL. |
+| [*Bank System*](https://github.com/Mero0077/Bank-System) | C++ system for customer accounts, transactions — OOP practice. |
 
 ---
 
-### 🧩 Strengths & Practices
+## 📊 Stats
 
-- ✅ **SOLID Principles**, OOP, Clean Architecture  
-- ✅ Entity Framework Core, ADO.NET, LINQ, SQL Server & PostgreSQL  
-- ✅ RESTful API design & Swagger Docs  
-- ✅ Git version control & Agile workflow with Jira  
-
----
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mero0077&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mero0077&theme=default_repocard&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mero0077&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mero0077&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mero0077&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=Mero0077&theme=default_repocard&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Mero0077&theme=default_repocard&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mero0077&theme=default_repocard&hide_border=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mero0077&icon=10&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-## 🔗 Connect With Me
+## 📌 Let’s Connect
 
 <p align="center">
   <a href="mailto:omartalaatsaad2017@gmail.com">
@@ -86,18 +66,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-## 📌 Projects
-
-💡 **Learning by doing — real .NET practice:**
-- [**Hotel Booking**](https://github.com/Mero0077/Hotel-Management) -A clean, full-featured hotel booking system — dynamic rooms, seasonal pricing, role-based access, and reviews, all crafted with scalable clean architecture.
-- [**Sahlha Marketplace**](https://github.com/Mero0077/SahlhaApp) -A platform built to save time, reduce stress, and bring reliable help to every home and business.
-- [**E-Commerce**](https://github.com/Mero0077/E-CommerceProject) -An e-commerce project that enables users to browse, search, and purchase products with features like cart management, user authentication, and admin controls.
-- [**DriverLicense System*](https://github.com/Mero0077/DriverLicenseSystemF) -A driving license management system built using ADO.NET for handling applicant data, license issuance, and record management through direct database interactions.
-- [**Bank System*](https://github.com/Mero0077/Bank-System) -A banking system developed in C++ to manage customer accounts, transactions, and balance inquiries using object-oriented programming concepts.
-
-
-
-
