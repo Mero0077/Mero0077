@@ -25,20 +25,24 @@
 <div align="center">
 
   <!-- ✅ Core Languages & Frameworks ✅ -->
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,cpp,c,typescript,angular,html,css,bootstrap,tailwind" />
-  <img src="https://skillicons.dev/icons?i=sql,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,typescript,angular,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 
   <!-- ✅ Tools, Platforms & Cloud ✅ -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker,aws,azure" />
 
-  <!-- ✅ Custom badges for what's missing ✅ -->
+  <!-- ✅ Custom badges for missing tech ✅ -->
   <br/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+
 </div>
+
 
 
 
