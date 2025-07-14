@@ -23,46 +23,46 @@
 ## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,sql,angular,typescript,html,css,git,github,vscode,postman,jira,linux,powershell" />
+  <!-- Core Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=dotnet,csharp,cpp,sql,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,typescript,angular,bootstrap,tailwind" />
+  <!-- Tools & Practices -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,powershell" />
+  <img src="https://skillicons.dev/icons?i=postman,jira,azure,aws,docker" />
+  <!-- Extras -->
+  <img src="https://skillicons.dev/icons?i=visualstudio,swagger" />
 </div>
 
 ---
 
-## 📈 What Drives Me
+### 🧩 Strengths & Practices
 
-- 🎯 I build software that **makes sense for customers** and **returns value**
-- 🛠️ Strong in **.NET**, **C#**, **EF Core**, **API design**, **DB optimization**
-- 🧩 I think in **patterns** — OOP, SOLID, layered & clean architectures
-- 💼 I bring a *business-first mindset* — scaling e-commerce brands to six figures taught me ROI matters
-
----
-
-## ✨ GitHub Stats
-
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Mero0077&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Mero0077&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mero0077&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-</div>
+- ✅ **SOLID Principles**, OOP, Clean Architecture  
+- ✅ Entity Framework Core, ADO.NET, LINQ, SQL Server & PostgreSQL  
+- ✅ RESTful API design & Swagger Docs  
+- ✅ Git version control & Agile workflow with Jira  
+- ✅ Cloud basics with **Azure** & **AWS**, containerization with **Docker**
 
 ---
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mero0077&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mero0077&theme=default_repocard&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mero0077&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mero0077&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mero0077&theme=onestar&no-bg=true&margin-w=15" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mero0077/Mero0077/output/github-contribution-grid-snake.svg" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mero0077&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Mero0077&icon=10&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ## 🔗 Connect With Me
 
