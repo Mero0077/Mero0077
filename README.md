@@ -7,7 +7,7 @@
 <p align="center">
 A Mechatronics grad from the German University in Cairo, blending backend engineering with real business sense.
 <br><br>
-🚀 Scaled global e-commerce brands in the USA and Europe to six-figure monthly sales. Now focused on building robust backend systems with .NET Core, C#, CQRS, and clean architecture.”
+🚀 Scaled global e-commerce brands in the USA and Europe to six-figure monthly sales. Now focused on building robust backend systems with .NET Core, C#, CQRS, and clean architecture.
 </p>
 
 ---
