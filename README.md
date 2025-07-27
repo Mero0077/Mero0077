@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Hello!+👋;+I'm+Omar+Saad!" />
 </h1>
 
-<h3 align="center">🧩 Business-minded .NET Backend Developer with Too Much Rizz</h3>
+<h3 align="center">🧩 Business-minded .NET Backend Developer</h3>
 
 <p align="center">
 Mechatronics grad from the German University in Cairo, blending backend engineering with real business sense — because code that doesn’t drive results is just noise.
