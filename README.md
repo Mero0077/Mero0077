@@ -1,35 +1,33 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Hello!+👋;+I'm+Omar+Saad!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hello+Hello!+👋;+I'm+Omar+Saad!" />
 </h1>
 
-<h3 align="center">🧩 Business-minded .NET Backend Developer</h3>
+<h3 align="center">🧩 Business-Minded .NET Backend Engineer</h3>
 
 <p align="center">
-Mechatronics grad from the German University in Cairo, blending backend engineering with real business sense — because code that doesn’t drive results is just noise.
+Mechatronics grad from the German University in Cairo. I don’t just write code — I build backends that drive business results.  
 <br><br>
-🚀 Scaled e-commerce brands in the U.S. and Europe to six-figure monthly sales. Now focused on building backend systems that are clean, resilient, and strategically aligned.
+🚀 Scaled U.S. & European e-commerce brands to six-figure monthly revenue. Now, I’m all-in on crafting scalable, clean, rock-solid systems with .NET Core and a sharp product mindset.
 </p>
 
 ---
 
 ## ⚙️ What I Do Best
 
-- 🔧 Build APIs and backend systems that don’t break — even on a bad day.
-- 🧠 Apply SOLID principles, Clean Architecture, CQRS, and Onion like it’s second nature.
-- 💾 Design data flows and caching strategies (hello Redis 👋) that just work.
-- 🧩 Write code that speaks business — not just machines.
-- 📈 Obsessed with outcome-driven development: retention, churn, LTV, impact.
+- 🔧 Ship bulletproof APIs and backend systems that don’t break — even on a bad day.  
+- 🧠 Think in SOLID, breathe Clean Architecture, and build with CQRS + Onion from day one.  
+- ⚙️ Engineer Redis caching, smart DB schemas, and async flows that just click.  
+- 🧩 Turn messy business problems into clean code and measurable outcomes.  
+- 💥 Build backend that moves real metrics — churn down, retention up, systems steady.  
+- 💻 Quiet confidence. Loud results. And yeah... just enough rizz to make the debugger blush.
 
 ---
 
 ## 🚧 Currently Building
 
-A full-stack project with Angular — functional, integrated, and backend-first.  
+A full-stack project using Angular — not a UI diva, but I speak both backend and frontend fluently.  
+It’s not about mastering both — it’s about owning the flow from DB to browser.
 
----
-
-> Quiet confidence. Loud results.  
-> And yeah... just enough rizz to make the debugger blush.
 
 ## 🛠️ Tech Toolbox
 
