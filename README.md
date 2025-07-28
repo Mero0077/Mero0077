@@ -16,7 +16,7 @@ Mechatronics grad from the German University in Cairo. I don’t just write code
 
 - 🔧 Ship bulletproof APIs and backend systems that don’t break — even on a bad day.  
 - 🧠 Think in SOLID, breathe Clean Architecture, and build with CQRS + Onion from day one.  
-- ⚙️ Think of Redis caching, smart DB schemas, and async flows that just click.  
+- ⚙️ Build Redis-backed caching, clean DB schemas, and async flows that just work.  
 - 🧩 Turn messy business problems into clean code and measurable outcomes.  
 - 💥 Build backend that moves real metrics — churn down, retention up, systems steady.  
 - 💻 Quiet confidence. Loud results. And yeah... just enough rizz to make the debugger blush.
