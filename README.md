@@ -47,29 +47,12 @@ A full-stack project Angular project-functional frontend, backend-led.
 
 | Project | Description |
 |---------|--------------|
+| [*Hotel Booking](https://github.com/Mero0077/HRSystem) |  (Vertical Slicing) – Enterprise-grade HR platform featuring highly dynamic RBAC with runtime role/feature mapping, secure authentication via JWT & refresh tokens, global middlewares for security and logging, and Redis caching with RabbitMQ event-driven messaging for high performance and scalability. |
+| [*Recipe Management System](https://github.com/Mero0077/FoodRecipes) |  (Onion Architecture) – Recipe recommendation system with fine-grained access control, Redis caching, and optimized SQL queries. |
 | [*Hotel Booking](https://github.com/Mero0077/Hotel-Management) | Full-featured hotel booking system — dynamic rooms, seasonal pricing, role-based access & reviews. *Tech: .NET Core, CQRS, Clean Arch. |
 | [*Sahlha Marketplace](https://github.com/Mero0077/SahlhaApp) | A platform to streamline services for homes & businesses. *Tech: .NET Core, Clean Arch. |
 | [*E-Commerce*](https://github.com/Mero0077/E-CommerceProject) | Online shop: browse, search, buy, manage carts. Auth, admin controls, SOLID design. |
 | [*Driver License System*](https://github.com/Mero0077/DriverLicenseSystemF) | Manage driving license records, applicants, and issuance using ADO.NET & SQL. |
 | [*Bank System*](https://github.com/Mero0077/Bank-System) | C++ system for customer accounts, transactions — OOP practice. |
 
----
 
-## 📊 Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Mero0077&theme=default_repocard&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Mero0077&theme=default_repocard&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mero0077&theme=default_repocard&hide_border=true&layout=compact)
-
----
-
-## 📌 Let’s Connect
-
-<p align="center">
-  <a href="mailto:omartalaatsaad2017@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/omartalaatsaad/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
